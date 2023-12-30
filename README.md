@@ -1,3 +1,4 @@
+![Screenshot (3)](https://github.com/Akki9519/Reciptro-/assets/103363760/74d13512-75dd-45aa-9a49-540624ebd8c8)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
